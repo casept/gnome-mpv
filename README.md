@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://avatars1.githubusercontent.com/u/29598503?v=3&s=256" alt="Project">
+  <img src="gnome-mpv_logo.png" alt="gnome-mpv">
   <br />
-  [Project]
+  gnome-mpv
 </h1>
 
-<p align="center"><b>This is the snap for [Project]</b>, <i>"Single-line elevator pitch for your amazing snap"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
+<p align="center"><b>This is the snap for gnome-mpv</b>, <i>"a simple GTK+ frontend for mpv"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
 distributions.</p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
@@ -16,13 +16,12 @@ distributions.</p>
 ## Install
 
     sudo apt install snapd-xdg-open
-    sudo snap install my-snap-name
+    sudo snap install gnome-mpv
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
-<!-- Uncomment and modify this when you have a screenshot
-![my-snap-name](screenshot.png?raw=true "my-snap-name")
--->
+![gnome-mpv](screenshot.png?raw=true "gnome-mpv")
+
 
 <p align="center">Published for <img src="http://anything.codes/slack-emoji-for-techies/emoji/tux.png" align="top" width="24" /> with :gift_heart: by Snapcrafters</p>
 
@@ -35,8 +34,8 @@ upstream so [Project] can authoritatively publish future releases.
 
   - [x] Fork the [Snapcrafters template](https://github.com/snapcrafters/fork-and-rename-me) repository to your own GitHub account.
     - If you have already forked the Snapcrafter template to your account and want to create another snap, you'll need to use GitHub's [Import repository](https://github.com/new/import) feature because you can only fork a repository once.
-  - [ ] Rename the forked Snapcrafters template repository
-  - [ ] Update logos and references to `[Project]` and `[my-snap-name]`
+  - [x] Rename the forked Snapcrafters template repository
+  - [x] Update logos and references to `[Project]` and `[my-snap-name]`
   - [ ] Create a snap that runs in `devmode`
   - [ ] Register the snap in the store, **using the preferred upstream name**
   - [ ] Add a screenshot to this `README.md`
@@ -64,9 +63,9 @@ If you have any questions, [post in the Snapcraft forum](https://forum.snapcraft
 
 ## The Snapcrafters
 
-| [![Your Name](http://gravatar.com/avatar/bc0bced65e963eb5c3a16cab8b004431/?s=128)](https://github.com/yourname/) |
+| [![casept](https://avatars2.githubusercontent.com/u/21053871?v=4&s=460)](https://github.com/casept/) |
 | :---: |
-| [Your Name](https://github.com/yourname/) |
+| [casept](https://github.com/casept/) |
 
 <!-- Uncomment and modify this when you have upstream contacts
 ## Upstream
