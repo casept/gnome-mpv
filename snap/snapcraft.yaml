@@ -9,8 +9,8 @@ description: |
   Remember to connect this snap to the removable-media slot,
   otherwise external media won't be accessible!
 
-grade: devel 
-confinement: strict 
+grade: devel
+confinement: devmode 
 
 plugs:
   gnome-mpv-dbus:
